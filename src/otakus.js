@@ -2,7 +2,7 @@ export const otakus = [
   {
     id: 1,
     name: "Alluka",
-    username: "AllukaX08 SAMA",
+    username: "AllukaX089 SAMA",
     email: "AllukaX08@gmail.com"
   },
   {
